@@ -1,0 +1,76 @@
+
+.title{
+
+   color: var(--example);
+   display: flex;
+   padding-left: 20px;
+   padding-top: 20px;
+}
+
+.banner{
+   display: flex;
+   flex-direction: row;
+ 
+   margin: 20px;
+   padding: 20px;
+
+   @media (max-width:800px) {
+      display: flex;
+      flex-direction: column;
+   }
+}
+
+.text{
+   margin: 20px;
+   padding: 20px;
+   color: var(--gray)
+}
+
+
+.banner1-detalhes{
+   background-image:  url("../../assets/upMiner.png");
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 296px;
+   width: 95%;
+}
+.banner2-detalhes{
+   background-image:  url("../../assets/upMiner2.png");
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 296px;
+   width: 95%;
+}
+
+.Md-content-detalhes{
+   padding-bottom: 18px;
+   display: flex;
+   align-items: flex-end;
+   p{
+      height:20px;
+      margin-top: 220px;
+      color: var(--example)
+   }
+}
+
+.botao-habilitar {
+   margin: 20px;
+   padding: 20px;
+   display: flex;
+   align-items: flex-end;
+   p{
+      height:25px;
+      margin-left: 20px;
+   }
+   h1{
+      font-size: 60px;
+      height: 65px;
+   }
+   button{
+      background: var(--example);
+      color: var(#FBFBFB);
+      max-width: 160px;
+      margin-left: 28px;
+   }
+   
+}

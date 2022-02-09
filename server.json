@@ -1,0 +1,216 @@
+{
+  "genres": [
+   {
+      "id": 1,
+      "name": "all",
+      "title": "Todos"
+    },
+    {
+      "id": 2,
+      "name": "prof",
+      "title": "Profissional"
+    },
+    {
+      "id": 3,
+      "name": "reguladores",
+      "title": "Reguladores"
+    },
+    {
+      "id": 4,
+      "name": "ambiental",
+      "title": "Sócio Ambienta"
+    },
+    {
+      "id": 5,
+      "name": "juridico",
+      "title": "Jurídico"
+    },
+    {
+      "id": 6,
+      "name": "restritivas",
+      "title": "Lista Restritivas"
+    },
+    {
+      "id": 7,
+      "name": "midia",
+      "title": "Midia Internet"
+    },
+    {
+      "id": 8,
+      "name": "bensImoveis",
+      "title": "Bens Imoveis"
+    },
+    {
+      "id": 9,
+      "name": "cadastro",
+      "title": "Cadastro"
+    },
+    {
+      "id": 10,
+      "name": "financeiro",
+      "title": "Financeiro"
+    }
+  ],
+  "cards": [
+   {
+      "Genre_id": 1,
+      "Icon":"financeiro",
+      "Title": "Profissional",
+      "SubTitle": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Díarios Oficiais de empresas S.A, de capital aberto e limitadas (LTDA) de grande porte.",
+      "Price" : "25,99",
+      "link" : ""
+   },
+   {
+      "Genre_id": 1,
+      "Icon":"prof",
+      "Title": "Financeiro",
+      "SubTitle": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Díarios Oficiais de empresas S.A, de capital aberto e limitadas (LTDA) de grande porte.",
+      "Price" : "22,99",
+      "link" : ""
+   },
+   {
+      "Genre_id": 1,
+      "Icon":"reguladores",
+      "Title": "Reguladores",
+      "SubTitle": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Díarios Oficiais de empresas S.A, de capital aberto e limitadas (LTDA) de grande porte.",
+      "Price" : "23,99",
+      "link" : ""
+   },
+   {
+      "Genre_id": 1,
+      "Icon":"ambiental",
+      "Title": "Sício Ambiental",
+      "SubTitle": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Díarios Oficiais de empresas S.A, de capital aberto e limitadas (LTDA) de grande porte.",
+      "Price" : "19,99",
+      "link" : ""
+   },
+   {
+      "Genre_id": 1,
+      "Icon":"juridico",
+      "Title": "Jurídico",
+      "SubTitle": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Díarios Oficiais de empresas S.A, de capital aberto e limitadas (LTDA) de grande porte.",
+      "Price" : "59,99",
+      "link" : ""
+   },
+   {
+      "Genre_id": 1,
+      "Icon":"restritivas",
+      "Title": "Lista Restritivas",
+      "SubTitle": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Díarios Oficiais de empresas S.A, de capital aberto e limitadas (LTDA) de grande porte.",
+      "Price" : "24,99",
+      "link" : ""
+   },
+   {
+      "Genre_id": 1,
+      "Icon":"midia",
+      "Title": "Mídia / Internet",
+      "SubTitle": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Díarios Oficiais de empresas S.A, de capital aberto e limitadas (LTDA) de grande porte.",
+      "Price" : "26,99",
+      "link" : ""
+   },
+   {
+      "Genre_id": 1,
+      "Icon":"bensImoveis",
+      "Title": "Bens e Imóveis",
+      "SubTitle": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Díarios Oficiais de empresas S.A, de capital aberto e limitadas (LTDA) de grande porte.",
+      "Price" : "29,99",
+      "link" : ""
+   },
+   {
+      "Genre_id": 1,
+      "Icon":"cadastro",
+      "Title": "Cadastro",
+      "SubTitle": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Díarios Oficiais de empresas S.A, de capital aberto e limitadas (LTDA) de grande porte.",
+      "Price" : "29,99",
+      "link" : ""
+   },
+   {
+      "Genre_id": 1,
+      "Icon":"financeiro",
+      "Title": "Financeiro",
+      "SubTitle": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Díarios Oficiais de empresas S.A, de capital aberto e limitadas (LTDA) de grande porte.",
+      "Price" : "29,99",
+      "link" : ""
+   },
+      {
+         "Genre_id": 1,
+         "Icon":"financeiro",
+         "Title": "Profissional",
+         "SubTitle": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Díarios Oficiais de empresas S.A, de capital aberto e limitadas (LTDA) de grande porte.",
+         "Price" : "25,99",
+         "link" : ""
+      },
+      {
+         "Genre_id": 2,
+         "Icon":"prof",
+         "Title": "Financeiro",
+         "SubTitle": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Díarios Oficiais de empresas S.A, de capital aberto e limitadas (LTDA) de grande porte.",
+         "Price" : "22,99",
+         "link" : ""
+      },
+      {
+         "Genre_id": 3,
+         "Icon":"reguladores",
+         "Title": "Reguladores",
+         "SubTitle": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Díarios Oficiais de empresas S.A, de capital aberto e limitadas (LTDA) de grande porte.",
+         "Price" : "23,99",
+         "link" : ""
+      },
+      {
+         "Genre_id": 4,
+         "Icon":"ambiental",
+         "Title": "Sício Ambiental",
+         "SubTitle": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Díarios Oficiais de empresas S.A, de capital aberto e limitadas (LTDA) de grande porte.",
+         "Price" : "19,99",
+         "link" : ""
+      },
+      {
+         "Genre_id": 5,
+         "Icon":"juridico",
+         "Title": "Jurídico",
+         "SubTitle": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Díarios Oficiais de empresas S.A, de capital aberto e limitadas (LTDA) de grande porte.",
+         "Price" : "59,99",
+         "link" : ""
+      },
+      {
+         "Genre_id": 6,
+         "Icon":"restritivas",
+         "Title": "Lista Restritivas",
+         "SubTitle": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Díarios Oficiais de empresas S.A, de capital aberto e limitadas (LTDA) de grande porte.",
+         "Price" : "29,99",
+         "link" : ""
+      },
+      {
+         "Genre_id": 7,
+         "Icon":"midia",
+         "Title": "Mídia / Internet",
+         "SubTitle": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Díarios Oficiais de empresas S.A, de capital aberto e limitadas (LTDA) de grande porte.",
+         "Price" : "26,99",
+         "link" : ""
+      },
+      {
+         "Genre_id": 8,
+         "Icon":"bensImoveis",
+         "Title": "Bens e Imóveis",
+         "SubTitle": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Díarios Oficiais de empresas S.A, de capital aberto e limitadas (LTDA) de grande porte.",
+         "Price" : "29,99",
+         "link" : ""
+      },
+      {
+         "Genre_id": 9,
+         "Icon":"cadastro",
+         "Title": "Cadastro",
+         "SubTitle": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Díarios Oficiais de empresas S.A, de capital aberto e limitadas (LTDA) de grande porte.",
+         "Price" : "29,99",
+         "link" : ""
+      },
+      {
+         "Genre_id": 10,
+         "Icon":"financeiro",
+         "Title": "Financeiro",
+         "SubTitle": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Díarios Oficiais de empresas S.A, de capital aberto e limitadas (LTDA) de grande porte.",
+         "Price" : "25,99",
+         "link" : ""
+      }
+  ]
+}

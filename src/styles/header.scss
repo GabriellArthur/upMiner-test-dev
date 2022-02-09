@@ -1,0 +1,38 @@
+
+
+.banner1{
+   background-image:  url("../../assets/upMiner.png");
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 406px;
+   width: 100%;
+}
+.banner2{
+   background-image:  url("../../assets/upMiner2.png");
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 406px;
+   width: 100%;
+}
+
+.Md-content{
+   padding-bottom: 20px;
+   display: flex;
+   align-items: flex-end;
+   p{
+      height:25px;
+      margin-top: 300px;
+      margin-left: 200px;
+   }
+   h1{
+      font-size: 60px;
+      height: 65px;
+      margin-right: 20px;
+   }
+   button{
+      background: var(--example);
+      color: var(#FBFBFB);
+      max-width: 160px;
+      margin-left: 28px;
+   }
+}

@@ -1,0 +1,58 @@
+.card {
+  position: relative;
+   margin: 50px 10px 50px;
+  > div {
+     border: 1;
+     border-radius: 0.25rem;
+     background: var(--background-button);
+      
+      position: absolute;
+   
+         .info {
+            max-width: 20rem;
+            width: 100%;
+            display: flex;
+         
+         .title{
+            font-size: 24px;
+            margin-bottom: 20px;
+            text-align: center;
+            
+         }
+         .subtitle{
+            font-size: 16px;
+            text-align: center;
+            color: var(--gray);
+            
+         }
+         .icon{
+            font-size: 60px;
+            text-align: center;
+         }
+         
+         .button{
+            border-radius: 0.25rem;
+            background: var(--example);
+            color: var(#FBFBFB);
+            display: flex;
+            margin: 50px 0px 0px;
+            justify-content: space-between;
+            text-align: justify;
+            .button-title{
+               margin-top: 10px;
+               margin-right: 50px;
+               font-size: 40px;
+               width: 250px;
+            }
+            .button-button{
+               background: var(--example);
+               color: var(#FBFBFB);
+               font-size: 20px;
+               height: 5rem;
+               width: 26rem;
+            }
+         }
+         flex-direction: column;
+      }
+   } 
+}
